@@ -10,7 +10,7 @@ To find marginal distributions and correation coefficient of joint probability m
 
 Python
 
-# Theory:
+# Theory :
 
 A marginal distribution is a distribution of values for one variable that ignores a more extensive set of related variables in a dataset.
 The marginal mass function for X is found by summing over the appropriate column and the marginal mass function
@@ -21,7 +21,7 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 # Procedure :
 ![image](https://user-images.githubusercontent.com/104613195/168220332-09383cb4-a7ac-4526-b547-fc522ca53227.png)
 
-# Program:
+# Program :
 ```python
 # Developed by: Y Chethan
 # Register Number: 212220230008
