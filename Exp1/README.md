@@ -10,7 +10,7 @@ To fit binomial distribution for the given frequencey distribution
 
 Python
 
-# Theory:
+# Theory :
 
 The binomial distribution is a discrete probability distribution. It describes the outcome of n independent trials in an experiment. Each trial is assumed to have only two outcomes, either success or failure. If the probability of a successful trial is p, then the probability of having x successful outcomes in an experiment of n independent trials is as follows.
 
@@ -25,7 +25,7 @@ The following are criteria for a frequency distribution to be a binomial distrib
 
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
-# Program:
+# Program :
 ```python
 # Developed by: Y Chethan
 # Register Number: 212220230008
