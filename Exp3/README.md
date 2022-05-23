@@ -64,8 +64,7 @@ print("Standard deviation of Y:\t\t",sd_y)
 print("Covariance:\t\t\t\t",Covariance.round(4))
 print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 ```
-# Output : 
+# Results and Output : 
 ![image](https://user-images.githubusercontent.com/75235488/168961369-1cab8dc9-e532-4c91-bf85-d7ca0a2d5d19.png)
 
-# Result :
 Marginal distributions and correlation coefficient of joint probability mass function of two dimensional random variables are found using python program.
