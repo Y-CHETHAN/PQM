@@ -73,5 +73,5 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/75234991/170812591-c3d847e4-2c85-4ccb-b805-04036c564bd3.png)
 
-# Result :
+# Result:
 Thus, given data is analysed using coefficient of correlation and regression line.
