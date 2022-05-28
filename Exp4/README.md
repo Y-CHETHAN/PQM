@@ -15,7 +15,7 @@ Correlation describes the strength of an association between two variables, and 
 
 If y represents the dependent variable and x the independent variable, this relationship is described as the regression of y on x. The relationship can be represented by a simple equation called the regression equation. The regression equation representing how much y changes with any given change of x can be used to construct a regression line on a scatter diagram, and in the simplest case this is assumed to be a straight line.
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 # Procedure:
 
