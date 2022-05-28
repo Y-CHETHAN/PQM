@@ -1,28 +1,27 @@
-# Marginal distributions and correation coefficient  
+# Marginal distributions and correlation coefficient  
 
-# Aim : 
+# Aim: 
 
-To find marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables
+To find marginal distributions and correlation coefficient of joint probability mass function of two dimensional random variables
 
 ![image](https://user-images.githubusercontent.com/104613195/168222062-bb7dec1f-f115-4669-8b4c-58283af8ccf3.png)
 
-# Software required :  
+# Software required:  
 
 Python
 
-# Theory :
+# Theory:
 
 A marginal distribution is a distribution of values for one variable that ignores a more extensive set of related variables in a dataset.
-The marginal mass function for X is found by summing over the appropriate column and the marginal mass function
-for Y can be found be summing over the appropriate row.
+The marginal mass function for X is found by summing over the appropriate column and the marginal mass function for Y can be found be summing over the appropriate row.
 
 Correlation coefficients are indicators of the strength of the linear relationship between two different variables. The coefficient of correlation is measure of degree of realtionship betwen two variavbles. A linear correlation coefficient that is greater than zero indicates a positive relationship. A value that is less than zero signifies a negative relationship. Finally, a value of zero indicates no relationship between the two variables x and y.  
 
-# Procedure :
+# Procedure:
 ![image](https://user-images.githubusercontent.com/104613195/168220332-09383cb4-a7ac-4526-b547-fc522ca53227.png)
 
-# Program :
-```python
+# Program:
+```
 # Developed by: Y Chethan
 # Register Number: 212220230008
 
@@ -64,7 +63,8 @@ print("Standard deviation of Y:\t\t",sd_y)
 print("Covariance:\t\t\t\t",Covariance.round(4))
 print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 ```
-# Results and Output : 
+# Output: 
 ![image](https://user-images.githubusercontent.com/75235488/168961369-1cab8dc9-e532-4c91-bf85-d7ca0a2d5d19.png)
 
-Marginal distributions and correlation coefficient of joint probability mass function of two dimensional random variables are found using python program.
+# Result:
+Thus, marginal distributions and correlation coefficient of joint probability mass function of two dimensional random variables are found using python program.
