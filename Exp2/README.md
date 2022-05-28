@@ -1,13 +1,13 @@
 # Fitting Poisson Distribution
 
-# Aim : 
+# Aim: 
 
 To fit poisson distribution for the given frequencey distribution
 
  ![image](https://user-images.githubusercontent.com/104613195/166092068-a5bf057f-fe65-41b8-ba2f-310fc6b56078.png)
 
 
-# Software required :  
+# Software required:  
 
 Python
 
@@ -17,19 +17,19 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 ![image](https://user-images.githubusercontent.com/104613195/166248326-fd042076-8b0b-40c4-8b11-1d8e8fcb74db.png)
 
- Conditions for Poisson Distribution:
+Conditions for Poisson Distribution:
 
 1. An event can occur any number of times during a time period.
 2. Events occur independently. I
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
  
-# Procedure :
+# Procedure:
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
-# Program :
-```python
+# Program:
+```
 # Developed by: Y Chethan
 # Register Number: 212220230008
 
@@ -59,6 +59,8 @@ if cal_chi2<tab_chi2:
 else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
 ```
-# Results and Output : 
+# Output: 
  ![image](https://user-images.githubusercontent.com/65499285/166267901-c770ec84-bba2-4ad0-b7d3-1a1394e60346.png)
-<br> Hence a program has been implemented to fit poisson distribution for the given frequencey distribution.
+ 
+# Result:
+Thus, a program has been implemented to fit poisson distribution for the given frequencey distribution.
