@@ -21,8 +21,6 @@ The following are criteria for a frequency distribution to be a binomial distrib
 2. Each trial can result in just two possible outcomes (a success anda failure).
 3. The trials are independent (the outcome on one trial does not affect the outcome on other trials).
 
-<br><br><br><br><br>
-
 # Procedure:
 
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
