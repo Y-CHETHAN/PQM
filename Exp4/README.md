@@ -21,6 +21,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program:
 ```
+# Developed by: Y Chethan
+# Register Number: 212220230008
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
