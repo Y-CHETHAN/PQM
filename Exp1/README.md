@@ -1,16 +1,16 @@
 # Fitting Binomial Distribution
 
-# Aim : 
+# Aim: 
 
 To fit binomial distribution for the given frequencey distribution
 
 ![image](https://user-images.githubusercontent.com/104613195/165903525-d4a642fc-ae42-476c-842f-bec7f72987c8.png)
 
-# Software required :  
+# Software required:  
 
 Python
 
-# Theory :
+# Theory:
 
 The binomial distribution is a discrete probability distribution. It describes the outcome of n independent trials in an experiment. Each trial is assumed to have only two outcomes, either success or failure. If the probability of a successful trial is p, then the probability of having x successful outcomes in an experiment of n independent trials is as follows.
 
@@ -21,12 +21,12 @@ The following are criteria for a frequency distribution to be a binomial distrib
 2. Each trial can result in just two possible outcomes (a success anda failure).
 3. The trials are independent (the outcome on one trial does not affect the outcome on other trials).
  
-# Procedure :
+# Procedure:
 
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
-# Program :
-```python
+# Program:
+```
 # Developed by: Y Chethan
 # Register Number: 212220230008
 
@@ -61,7 +61,8 @@ else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```
 
-# Results and Output : 
+# Output: 
 ![image](https://user-images.githubusercontent.com/65499285/166266555-dbc81273-4c3b-42e1-83c5-6b7404d96b2c.png)
 
-<br>Hence, a program was implemented to fit a binomial distribution for the given frequency distribution
+# Result:
+Thus, a program was implemented to fit a binomial distribution for the given frequency distribution.
