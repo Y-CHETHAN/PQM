@@ -27,8 +27,6 @@ If y represents the dependent variable and x the independent variable, this rela
 import numpy as np
 import math
 import matplotlib.pyplot as plt
-def f(x):
-    return ymean+byx*(x-xmean)
 
 x=[25,28,35,32,31,36,29,38,34,32]
 y=[43,46,49,41,36,32,31,30,33,39]
