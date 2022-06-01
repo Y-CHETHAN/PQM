@@ -16,7 +16,7 @@ Assumptions for Markov Chain :
 2. The states are mutually exclusive and collectively exhaustive.
 3. The transition probability from one state to another state is constant over time.
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 # Procedure:
 
