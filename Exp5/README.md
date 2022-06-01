@@ -16,8 +16,6 @@ Assumptions for Markov Chain :
 2. The states are mutually exclusive and collectively exhaustive.
 3. The transition probability from one state to another state is constant over time.
 
-<br><br><br><br><br><br><br>
-
 # Procedure:
 
 ![image](https://user-images.githubusercontent.com/104613195/170175685-c6187523-f268-4a3b-b03d-8bbe62647a57.png)
@@ -36,8 +34,6 @@ for i in range(1,n+1):
     print("The %d step probability distribution is"%i,"\n")
     print(P0,"\n\n")
 ```
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Output: 
 ![image](https://user-images.githubusercontent.com/75234991/171336479-fe059e12-00bb-4e83-b15e-8e56c3474eea.png)
