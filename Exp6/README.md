@@ -46,7 +46,9 @@ print("The Probability that fewer than 4 customers arrive is ",sum_1)
 ```
 # Output: 
 ![image](https://user-images.githubusercontent.com/75234991/172535141-deb6f33b-29f0-43cb-9363-90d54cafa518.png)
+
 ![image](https://user-images.githubusercontent.com/75234991/172535153-a389a74f-feaf-4ff1-95df-9406e16b9133.png)
+
 ![image](https://user-images.githubusercontent.com/75234991/172535148-a1356501-e23f-4c47-bacf-c3bf59338601.png)
 
 # Result:
