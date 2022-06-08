@@ -14,7 +14,7 @@ The Poisson process is one of the most widely-used counting processes. It is usu
 2. The location of users in a wireless network
 3. The requests for individual documents on a web server
 
- 
+ <br><br><br><br><br><br><br>
 # Procedure:
 
 ![image](https://user-images.githubusercontent.com/104613195/172528169-f26bdf76-f357-4c48-b806-a0a80da21cac.png)
