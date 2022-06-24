@@ -6,8 +6,7 @@ To find
       (b) average  number of materials in the conveyor
       (c) waitinging time of each material in the system
       (d) waitinging time of each material in the conveyor
-if arrival rate of material  follows poisson process 4 per minuates and serivice rate of lathe machine follows 
-exponential distribution with mean serice rate 5 per minutes.
+if arrival rate of material  follows poisson process 4 per minuates and service rate of lathe machine follows exponential distribution with mean service rate 5 per minutes.
 
 
 # Software required:  
@@ -16,13 +15,7 @@ Visual components and Python
 
 # Theory:
 
-  Queuing are the most frequently encountered problems in everyday life. For example, queue
-at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects
-requiring service and the attendant delays when the service mechanism is busy. Waiting lines
-cannot be eliminated completely, but suitable techniques can be used to reduce the waiting
-time of an object in the system. A long waiting line may result in loss of customers to an
-organization. Waiting time can be reduced by providing additional service facilities, but it may
-result in an increase in the idle time of the service mechanism. 
+  Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism. 
 
 ![image](https://user-images.githubusercontent.com/104613195/173292918-2583e4d3-a3d8-45fa-a577-9d0ebf79f0a5.png)
 
@@ -41,8 +34,6 @@ result in an increase in the idle time of the service mechanism.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
 
-<br><br><br><br><br><br><br><br><br><br>
-
 # Experiment:
 
 ![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
@@ -50,8 +41,6 @@ result in an increase in the idle time of the service mechanism.
 # Program:
 
 ![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
-
-<br><br><br><br><br><br><br>
 
 #  Output:
 
