@@ -26,10 +26,7 @@ result in an increase in the idle time of the service mechanism.
 
 ![image](https://user-images.githubusercontent.com/104613195/173292918-2583e4d3-a3d8-45fa-a577-9d0ebf79f0a5.png)
 
-
 ![image](https://user-images.githubusercontent.com/104613195/173292021-8c3b77dc-a9c2-4179-91ed-17e1db7039df.png)
-
-
  
 # Procedure:
  
@@ -43,6 +40,9 @@ result in an increase in the idle time of the service mechanism.
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
+
+<br><br><br><br><br><br>
+
 # Experiment:
 
 ![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
@@ -50,7 +50,6 @@ result in an increase in the idle time of the service mechanism.
 # Program:
 
 ![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
-
 
 #  Output:
 
