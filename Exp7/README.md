@@ -51,7 +51,7 @@ result in an increase in the idle time of the service mechanism.
 
 ![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 #  Output:
 
